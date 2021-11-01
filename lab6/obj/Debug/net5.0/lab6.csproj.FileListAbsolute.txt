@@ -1,0 +1,16 @@
+C:\Users\carab\source\repos\lab6\bin\Debug\net5.0\lab6.exe
+C:\Users\carab\source\repos\lab6\bin\Debug\net5.0\lab6.deps.json
+C:\Users\carab\source\repos\lab6\bin\Debug\net5.0\lab6.runtimeconfig.json
+C:\Users\carab\source\repos\lab6\bin\Debug\net5.0\lab6.runtimeconfig.dev.json
+C:\Users\carab\source\repos\lab6\bin\Debug\net5.0\lab6.dll
+C:\Users\carab\source\repos\lab6\bin\Debug\net5.0\ref\lab6.dll
+C:\Users\carab\source\repos\lab6\bin\Debug\net5.0\lab6.pdb
+C:\Users\carab\source\repos\lab6\obj\Debug\net5.0\lab6.csproj.AssemblyReference.cache
+C:\Users\carab\source\repos\lab6\obj\Debug\net5.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carab\source\repos\lab6\obj\Debug\net5.0\lab6.AssemblyInfoInputs.cache
+C:\Users\carab\source\repos\lab6\obj\Debug\net5.0\lab6.AssemblyInfo.cs
+C:\Users\carab\source\repos\lab6\obj\Debug\net5.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\carab\source\repos\lab6\obj\Debug\net5.0\lab6.dll
+C:\Users\carab\source\repos\lab6\obj\Debug\net5.0\ref\lab6.dll
+C:\Users\carab\source\repos\lab6\obj\Debug\net5.0\lab6.pdb
+C:\Users\carab\source\repos\lab6\obj\Debug\net5.0\lab6.genruntimeconfig.cache
